@@ -49,7 +49,7 @@ body {
     display: none;
 }
 
-.home-box h3{
+.home-box h3 {
     font-size: 18px;
     color: #000000;
     font-weight: 500;
@@ -84,19 +84,20 @@ body {
     cursor: pointer;
     display: inline-block;
 }
-#saniye
-{
 
-   width: 30px;
-   height:30px;
-   padding:6px;
-   text-align: center;
-   background: #009688;
-   color: #fff;
-   border-radius: 15px ;
+#saniye {
+
+    width: 30px;
+    height: 30px;
+    padding: 6px;
+    text-align: center;
+    background: #009688;
+    color: #fff;
+    border-radius: 15px;
     display: inline-block;
     margin: 5px 0 0 0;
 }
+
 .quiz-box .question-number,
 .quiz-box .question-text,
 .quiz-box .option-container,
